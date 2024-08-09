@@ -1,0 +1,178 @@
+.fazer-login {
+    position: absolute;
+    top: 240px;
+    left: calc(50% - 93px);
+    font-size: 36px;
+    text-align: center;
+}
+.retangulo-email-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 339px;
+    height: 41px;
+}
+.insira-seu-escola {
+    position: absolute;
+    top: 12px;
+    left: 14px;
+}
+.usuario {
+    position: absolute;
+    top: 314px;
+    left: 25px;
+    width: 339px;
+    height: 41px;
+    font-size: 14px;
+    color: #9b9b9b;
+}
+.retangulo-inserir-senha {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #dcffcf;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 339px;
+    height: 41px;
+}
+.inserir-senha {
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    display: inline-block;
+    width: 85px;
+    height: 18px;
+}
+.senha {
+    position: absolute;
+    top: 385px;
+    left: 25px;
+    width: 339px;
+    height: 41px;
+    font-size: 14px;
+    color: #9b9b9b;
+}
+.esqueceu-sua-senha {
+    position: absolute;
+    top: 443px;
+    left: calc(50% - 57px);
+    font-size: 12px;
+    color: #6c6c6c;
+}
+.no-tem-uma {
+    position: absolute;
+    top: 585px;
+    left: 83px;
+    color: #000;
+}
+.cadastre-se {
+    position: absolute;
+    top: 614px;
+    left: 128px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 144px;
+    height: 40px;
+    cursor: pointer;
+}
+.retangulo-entrar {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 78px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #2ca531;
+    width: 156px;
+    height: 41px;
+}
+.entrar {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 44px);
+}
+.boto {
+    position: absolute;
+    top: 507px;
+    left: calc(50% - 78px);
+    width: 156px;
+    height: 41px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+}
+.ces-icon {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 128px);
+    width: 256px;
+    height: 182px;
+    object-fit: cover;
+}
+.logo-ces-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 20px);
+    border-radius: 4px;
+    background-color: #000;
+    width: 40px;
+    height: 39px;
+}
+.logo-ces-item {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    width: 18px;
+    height: 27px;
+}
+.logo-ces-inner {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    width: 18.2px;
+    height: 18px;
+    object-fit: contain;
+}
+.vector-icon {
+    position: absolute;
+    top: 15.34px;
+    left: 19.57px;
+    width: 18.7px;
+    height: 18.5px;
+    object-fit: contain;
+}
+.cesf {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.logo-ces {
+    position: absolute;
+    bottom: 19px;
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 39px;
+    text-align: center;
+    font-size: 11.5px;
+    color: #fff;
+    font-family: Inter;
+}
+.pg-login {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #096f00;
+    font-family: Salsa;
+}
+

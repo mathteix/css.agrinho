@@ -1,0 +1,231 @@
+.como-prosseguir-child {
+    position: absolute;
+    top: 0px;
+    left: 261px;
+    background-color: #f2e145;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 130px;
+    height: 91px;
+    cursor: pointer;
+}
+.gerar {
+    margin: 0;
+}
+.gerar-qr-code-container {
+    position: absolute;
+    top: 11px;
+    left: 260px;
+    color: #000;
+    display: inline-block;
+    width: 131px;
+    height: 70px;
+}
+.como-prosseguir-item {
+    position: absolute;
+    top: 0px;
+    left: 131px;
+    background-color: #2ca531;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 130px;
+    height: 91px;
+    cursor: pointer;
+}
+.voltar-ao-carrinho {
+    position: absolute;
+    top: 11px;
+    left: 131px;
+    display: inline-block;
+    width: 131px;
+    height: 70px;
+}
+.como-prosseguir-inner {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    background-color: #2ca531;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 130px;
+    height: 91px;
+    cursor: pointer;
+}
+.voltar-ao-cardpio {
+    position: absolute;
+    top: 11px;
+    left: 0px;
+    display: inline-block;
+    width: 131px;
+    height: 70px;
+}
+.como-prosseguir {
+    position: absolute;
+    top: 753px;
+    left: -1px;
+    width: 391px;
+    height: 91px;
+    text-align: center;
+}
+.nico-pagamento-realizado-container {
+    position: absolute;
+    top: 339px;
+    left: calc(50% - 73.5px);
+    font-size: 15px;
+    text-align: center;
+}
+.div {
+    position: absolute;
+    top: 231px;
+    left: calc(50% + 10.5px);
+    font-size: 15px;
+    text-align: center;
+}
+.dinheiro {
+    position: absolute;
+    top: 226px;
+    left: 37px;
+    display: inline-block;
+    width: 242px;
+    height: 27px;
+}
+.opes-de-pagamento-child {
+    position: absolute;
+    top: 231px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 26px;
+    height: 26px;
+}
+.selecionado-icon {
+    position: absolute;
+    top: 236px;
+    left: 5px;
+    width: 16px;
+    height: 16px;
+}
+.pix {
+    position: absolute;
+    top: 113px;
+    left: 37px;
+    display: inline-block;
+    width: 242px;
+    height: 27px;
+}
+.opes-de-pagamento-item {
+    position: absolute;
+    top: 118px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 26px;
+    height: 26px;
+}
+.carto-de-crdito {
+    position: absolute;
+    top: 0px;
+    left: 37px;
+    display: inline-block;
+    width: 242px;
+    height: 27px;
+}
+.opes-de-pagamento-inner {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 26px;
+    height: 26px;
+}
+.opes-de-pagamento {
+    position: absolute;
+    top: 289px;
+    left: calc(50% - 164px);
+    width: 279px;
+    height: 375px;
+    font-size: 30px;
+    color: #000;
+}
+.ttulo-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #2ca531;
+    width: 390px;
+    height: 57px;
+}
+.selecione-a-forma {
+    position: absolute;
+    top: 15px;
+    left: 28px;
+    display: inline-block;
+    width: 405px;
+    height: 52px;
+}
+.ttulo {
+    position: absolute;
+    top: 152px;
+    left: 0px;
+    width: 433px;
+    height: 67px;
+    font-size: 23px;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 47px;
+}
+.icones {
+    position: absolute;
+    top: 50px;
+    left: 28px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.cesf-icon {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 92px;
+    object-fit: cover;
+}
+.pagamento-dinheiro {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 26px;
+    color: #fff;
+    font-family: Salsa;
+}
+

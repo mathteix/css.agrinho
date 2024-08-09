@@ -1,0 +1,332 @@
+.ttulo-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #2ca531;
+    width: 390px;
+    height: 57px;
+}
+.carrinho1 {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 59px);
+    display: inline-block;
+    width: 111px;
+    height: 24px;
+}
+.linha {
+    position: absolute;
+    top: 81.5px;
+    left: -0.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 399px;
+    height: 1px;
+}
+.ttulo {
+    position: absolute;
+    top: 152px;
+    left: 0px;
+    width: 398px;
+    height: 82px;
+    font-size: 27px;
+}
+.confirmar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #2ca531;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 144px;
+    height: 91px;
+    cursor: pointer;
+}
+.compra {
+    margin: 0;
+}
+.finalizar-compra {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+.confirmar {
+    position: absolute;
+    top: 0px;
+    left: 246px;
+    width: 144px;
+    height: 91px;
+}
+.valor-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f2e145;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 247px;
+    height: 91px;
+}
+.r1450 {
+    position: absolute;
+    top: 17px;
+    left: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 167px;
+    height: 65px;
+}
+.total-a-pagar {
+    position: absolute;
+    top: 7px;
+    left: 34px;
+    font-size: 20px;
+    color: #5b5b5b;
+}
+.valor {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 247px;
+    height: 91px;
+    font-size: 40px;
+    color: #000;
+}
+.finalizar {
+    position: absolute;
+    top: 753px;
+    left: 0px;
+    width: 390px;
+    height: 91px;
+    text-align: center;
+    font-size: 30px;
+}
+.fundo {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 195px);
+    background-color: #dcffcf;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 390px;
+    height: 102px;
+}
+.brownie-child {
+    position: absolute;
+    top: 44px;
+    left: 345px;
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+}
+.icon {
+    position: absolute;
+    top: 48px;
+    left: 349px;
+    width: 8px;
+    height: 6px;
+    object-fit: cover;
+}
+.brownie-item {
+    position: absolute;
+    top: 44px;
+    left: 320px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 25px;
+    height: 15px;
+}
+.div {
+    position: absolute;
+    top: 44px;
+    left: 330px;
+    font-size: 12px;
+}
+.brownie-inner {
+    position: absolute;
+    top: 44px;
+    left: 305px;
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+}
+.icon1 {
+    position: absolute;
+    top: 48px;
+    left: 309px;
+    width: 7px;
+    height: 7px;
+    object-fit: cover;
+}
+.r800 {
+    position: absolute;
+    top: 56px;
+    left: 95px;
+    display: inline-block;
+    width: 70px;
+    height: 29px;
+}
+.brownie-fit-de {
+    position: absolute;
+    top: 22px;
+    left: 94px;
+    display: inline-block;
+    width: 170px;
+    height: 19px;
+}
+.foto-icon {
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    width: 68px;
+    height: 68px;
+    object-fit: cover;
+}
+.brownie {
+    position: absolute;
+    top: 249px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 102px;
+    color: #000;
+}
+.po-de-queijo-child {
+    position: absolute;
+    top: 43px;
+    left: 345px;
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+}
+.icon2 {
+    position: absolute;
+    top: 47px;
+    left: 349px;
+    width: 8px;
+    height: 6px;
+    object-fit: cover;
+}
+.po-de-queijo-item {
+    position: absolute;
+    top: 43px;
+    left: 320px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 25px;
+    height: 15px;
+}
+.div1 {
+    position: absolute;
+    top: 43px;
+    left: 330px;
+    font-size: 12px;
+}
+.po-de-queijo-inner {
+    position: absolute;
+    top: 43px;
+    left: 305px;
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+}
+.icon3 {
+    position: absolute;
+    top: 47px;
+    left: 309px;
+    width: 7px;
+    height: 7px;
+    object-fit: cover;
+}
+.r650 {
+    position: absolute;
+    top: 55px;
+    left: 95px;
+    display: inline-block;
+    width: 70px;
+    height: 29px;
+}
+.po-de-queijo1 {
+    position: absolute;
+    top: 21px;
+    left: 94px;
+    display: inline-block;
+    width: 170px;
+    height: 19px;
+}
+.foto-icon1 {
+    position: absolute;
+    top: 15.64px;
+    left: 20px;
+    width: 68.4px;
+    height: 68.4px;
+    object-fit: contain;
+}
+.po-de-queijo {
+    position: absolute;
+    top: 367px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 102px;
+    color: #000;
+}
+.carrinho-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.imagem-icon {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 34.2px;
+    height: 33.4px;
+    object-fit: contain;
+}
+.carrinho2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 47px;
+}
+.icones {
+    position: absolute;
+    top: 50px;
+    left: 316px;
+    width: 46px;
+    height: 47px;
+}
+.cesf-icon {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 92px;
+    object-fit: cover;
+}
+.carrinho {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 17px;
+    color: #fff;
+    font-family: Salsa;
+}
+

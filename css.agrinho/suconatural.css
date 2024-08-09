@@ -1,0 +1,296 @@
+.dinheiro {
+    position: absolute;
+    top: 83px;
+    left: 45px;
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+}
+.notas-icon {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 44px;
+    height: 28px;
+    object-fit: cover;
+}
+.carto {
+    position: absolute;
+    top: 47px;
+    left: 45px;
+}
+.logo-mastercard-icon {
+    position: absolute;
+    top: 43px;
+    left: 4px;
+    width: 36px;
+    height: 28px;
+    object-fit: cover;
+}
+.pix {
+    position: absolute;
+    top: 6px;
+    left: 45px;
+}
+.logo-pix-icon {
+    position: absolute;
+    top: 0px;
+    left: 8.06px;
+    width: 32.2px;
+    height: 33px;
+    object-fit: contain;
+}
+.pagamento {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 125px;
+    height: 109px;
+}
+.retngulo-icon {
+    position: absolute;
+    top: 14px;
+    left: 152px;
+    border-radius: 8px;
+    width: 201px;
+    height: 81px;
+    cursor: pointer;
+}
+.ao-carrinho {
+    margin: 0;
+}
+.adicionar-ao-carrinho-container {
+    position: absolute;
+    top: 17px;
+    left: 171px;
+    font-size: 31px;
+    color: #fff;
+    text-align: center;
+}
+.adicionar {
+    position: absolute;
+    top: 690px;
+    left: 19px;
+    width: 353px;
+    height: 109px;
+}
+.retngulo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #caffb1;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 390px;
+    height: 57px;
+}
+.r400-un {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 77px);
+}
+.valor {
+    position: absolute;
+    top: 603px;
+    left: 0px;
+    width: 390px;
+    height: 57px;
+    font-size: 32px;
+}
+.vitamina-c-e {
+    margin-bottom: 0px;
+}
+.vitamina-c-e-b-anti-inflamatr {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 23px;
+}
+.ingredientes {
+    position: absolute;
+    top: calc(50% + 129.5px);
+    left: 59px;
+    display: inline-block;
+    width: 185px;
+}
+.foto-laranja-icon {
+    position: absolute;
+    top: 105px;
+    left: 99px;
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+}
+.foto-uva-icon {
+    position: absolute;
+    top: 105px;
+    left: 225px;
+    width: 155px;
+    height: 190px;
+    object-fit: cover;
+}
+.retngulo1 {
+    position: absolute;
+    top: 0px;
+    left: 44px;
+    background-color: #caffb1;
+    width: 390px;
+    height: 57px;
+}
+.suco-natural-one {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 239.5px);
+    display: inline-block;
+    width: 479px;
+    height: 24px;
+}
+.ttulo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 479px;
+    height: 57px;
+    text-align: center;
+    font-size: 24px;
+    color: #2b2828;
+}
+.linha {
+    position: absolute;
+    top: 98.5px;
+    left: 43.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 391px;
+    height: 1px;
+}
+.linha1 {
+    position: absolute;
+    top: 301.5px;
+    left: 43.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 391px;
+    height: 1px;
+}
+.detalhes-produto {
+    position: absolute;
+    top: calc(50% - 270px);
+    left: -44px;
+    width: 479px;
+    height: 427px;
+    font-size: 17px;
+}
+.sabor-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px;
+    background-color: #caffb1;
+    width: 151px;
+    height: 124px;
+}
+.uva {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.sabor1 {
+    position: absolute;
+    top: 13px;
+    left: 13.63px;
+    display: inline-block;
+    width: 130px;
+}
+.opo-2 {
+    position: absolute;
+    top: 75px;
+    left: 19.92px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 23.1px;
+    height: 22px;
+}
+.opo-1 {
+    position: absolute;
+    top: 44px;
+    left: 19.92px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 23.1px;
+    height: 22px;
+}
+.sabor {
+    position: absolute;
+    top: 467px;
+    left: 217px;
+    width: 151px;
+    height: 124px;
+    font-size: 24px;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.imagem-icon {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 34.2px;
+    height: 33.4px;
+    object-fit: contain;
+}
+.carrinho {
+    position: absolute;
+    top: 0px;
+    left: 288px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.icones {
+    position: absolute;
+    top: 50px;
+    left: 28px;
+    width: 334px;
+    height: 47px;
+}
+.cesf-icon {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 92px;
+    object-fit: cover;
+}
+.suco-natural {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Salsa;
+}
+

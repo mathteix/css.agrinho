@@ -1,0 +1,292 @@
+.logo-cesf-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 20px);
+    border-radius: 4px;
+    background-color: #000;
+    width: 40px;
+    height: 39px;
+}
+.logo-cesf-item {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    width: 18px;
+    height: 27px;
+}
+.logo-cesf-inner {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    width: 18.2px;
+    height: 18px;
+    object-fit: contain;
+}
+.vector-icon {
+    position: absolute;
+    top: 15.34px;
+    left: 19.57px;
+    width: 18.7px;
+    height: 18.5px;
+    object-fit: contain;
+}
+.cesf {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.logo-cesf {
+    position: absolute;
+    bottom: 19px;
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 39px;
+    color: #fff;
+}
+.almoo-child {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    width: 337px;
+    height: 171px;
+}
+.arroz {
+    margin: 0;
+}
+.arroz-salada-frango-container1 {
+    line-break: anywhere;
+    width: 100%;
+}
+.arroz-salada-frango-container {
+    position: absolute;
+    top: 51px;
+    left: 173px;
+    display: flex;
+    align-items: center;
+    width: 108px;
+    height: 117px;
+}
+.foto-prato-icon {
+    position: absolute;
+    top: 40px;
+    left: 11px;
+    width: 135px;
+    height: 151px;
+    object-fit: cover;
+}
+.almoo-escolar {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 67.5px);
+    font-size: 20px;
+    color: #22731b;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+.almoo {
+    position: absolute;
+    top: 279px;
+    left: 26px;
+    width: 337px;
+    height: 201px;
+    text-align: left;
+    font-size: 30px;
+    font-family: Salsa;
+}
+.combo-do-dia-child {
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    width: 337px;
+    height: 171px;
+}
+.valor-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 105px;
+    height: 35px;
+}
+.r990 {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 35.5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 72px;
+    height: 23px;
+}
+.valor {
+    position: absolute;
+    top: 147px;
+    left: 119px;
+    width: 105px;
+    height: 35px;
+    font-size: 22px;
+    font-family: Salsa;
+}
+.bombom-de-banana-container {
+    position: absolute;
+    top: 63px;
+    left: 12px;
+    font-weight: 800;
+}
+.bombom-de-maracuja-246x200px-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 86px;
+    height: 63px;
+    object-fit: cover;
+}
+.doce {
+    position: absolute;
+    top: 50px;
+    left: 233px;
+    width: 86px;
+    height: 95px;
+}
+.div {
+    position: absolute;
+    top: 55px;
+    left: 217px;
+    font-size: 24px;
+    font-family: 'Klee One';
+    text-align: left;
+}
+.gua-de-coco {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    font-weight: 800;
+}
+.icon {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    width: 65px;
+    height: 62px;
+    object-fit: cover;
+}
+.bebida {
+    position: absolute;
+    top: 49px;
+    left: 132px;
+    width: 77px;
+    height: 81px;
+    text-align: left;
+}
+.div1 {
+    position: absolute;
+    top: 55px;
+    left: 112px;
+    font-size: 24px;
+    font-family: 'Klee One';
+    text-align: left;
+}
+.sanduche-natural {
+    position: absolute;
+    top: 111px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 78px;
+    height: 43px;
+}
+.foto-sanduiche-icon {
+    position: absolute;
+    top: 49px;
+    left: 2px;
+    width: 75px;
+    height: 59px;
+    object-fit: cover;
+}
+.combo-do-dia1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 15px);
+    font-size: 20px;
+    font-family: Salsa;
+    color: #22731b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 122px;
+    height: 21px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+.salgado {
+    position: absolute;
+    top: 0px;
+    left: 18px;
+    width: 214px;
+    height: 154px;
+}
+.combo-do-dia {
+    position: absolute;
+    top: 507px;
+    left: 24px;
+    width: 337px;
+    height: 197px;
+    font-size: 13px;
+    font-family: 'Life Savers';
+}
+.destaques-do-dia {
+    position: absolute;
+    top: 214px;
+    left: calc(50% - 127px);
+    font-size: 31px;
+    font-family: Righteous;
+    color: #096f00;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 50px;
+    left: 27px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.cesf-icon {
+    position: absolute;
+    top: 24px;
+    left: calc(50% - 128px);
+    width: 256px;
+    height: 182px;
+    object-fit: cover;
+}
+.pagina-inicial {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 11.5px;
+    color: #000;
+    font-family: Inter;
+}
+

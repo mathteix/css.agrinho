@@ -1,0 +1,112 @@
+.realizar-pagamento-em {
+    position: absolute;
+    top: calc(50% + 118.93px);
+    left: calc(50% - 168px);
+    color: #000;
+    text-align: left;
+    transform:  rotate(-0.5deg);
+    transform-origin: 0 0;
+}
+.boto-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #cb5656;
+    border: 1.5px solid #bc0000;
+    box-sizing: border-box;
+    width: 235px;
+    height: 45px;
+}
+.cancelar-pedido {
+    position: absolute;
+    top: 13px;
+    left: 59px;
+}
+.boto {
+    position: absolute;
+    top: 639px;
+    left: 78px;
+    width: 235px;
+    height: 45px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.qr-code-icon {
+    position: absolute;
+    top: 248px;
+    left: calc(50% - 140px);
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+}
+.logo-cesf-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 20px);
+    border-radius: 4px;
+    background-color: #000;
+    width: 40px;
+    height: 39px;
+}
+.logo-cesf-item {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    width: 18px;
+    height: 27px;
+}
+.logo-cesf-inner {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    width: 18.2px;
+    height: 18px;
+    object-fit: contain;
+}
+.vector-icon {
+    position: absolute;
+    top: 15.34px;
+    left: 19.57px;
+    width: 18.7px;
+    height: 18.5px;
+    object-fit: contain;
+}
+.cesf {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.logo-cesf {
+    position: absolute;
+    bottom: 10px;
+    left: calc(50% - 180px);
+    width: 40px;
+    height: 39px;
+    font-size: 11.5px;
+    font-family: Inter;
+}
+.cesf-icon {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 128px);
+    width: 256px;
+    height: 182px;
+    object-fit: cover;
+}
+.qr-code-pagamento {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 19px;
+    color: #fff;
+    font-family: Salsa;
+}
+

@@ -1,0 +1,194 @@
+.retngulo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #096f00;
+    width: 101px;
+    height: 30px;
+}
+.sair1 {
+    position: absolute;
+    top: 1px;
+    left: 27px;
+}
+.sair {
+    position: absolute;
+    top: 750px;
+    left: 144px;
+    width: 101px;
+    height: 30px;
+    cursor: pointer;
+}
+.retngulo-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 37px;
+}
+.turmasrie-0-a {
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 168px);
+}
+.turma {
+    position: absolute;
+    top: 104px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 37px;
+}
+.retngulo1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 195px);
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 390px;
+    height: 37px;
+}
+.nome-completo {
+    position: absolute;
+    top: 11px;
+    left: 30px;
+}
+.nome {
+    position: absolute;
+    top: 52px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 37px;
+}
+.retngulo2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f2e782;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 390px;
+    height: 37px;
+}
+.escolacgmflescola {
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 165px);
+    white-space: pre-wrap;
+}
+.e-mail {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 37px;
+}
+.dados-pessoais {
+    position: absolute;
+    top: 556px;
+    left: calc(50% - 195px);
+    width: 390px;
+    height: 141px;
+    font-size: 12px;
+    color: #000;
+}
+.foto-de-usuario-child {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 116px);
+    border-radius: 50%;
+    background-color: #a1a1a1;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 232px;
+    height: 232px;
+}
+.account-profile-user-icon-1904 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 266px;
+    height: 250px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+}
+.foto-de-usuario {
+    position: absolute;
+    top: 262px;
+    left: calc(50% - 133px);
+    width: 266px;
+    height: 250px;
+}
+.ttulo-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #2ca531;
+    width: 390px;
+    height: 57px;
+}
+.minha-conta1 {
+    position: absolute;
+    top: 9px;
+    left: 106px;
+}
+.ttulo {
+    position: absolute;
+    top: 152px;
+    left: 0px;
+    width: 390px;
+    height: 57px;
+    font-size: 32px;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 47px;
+}
+.icones {
+    position: absolute;
+    top: 50px;
+    left: 28px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.cesf-icon {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 92px;
+    object-fit: cover;
+}
+.minha-conta {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+    font-family: Salsa;
+}
+

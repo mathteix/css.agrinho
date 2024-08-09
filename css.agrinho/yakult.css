@@ -1,0 +1,240 @@
+.dinheiro {
+    position: absolute;
+    top: 83px;
+    left: 45px;
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+}
+.notas-icon {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 44px;
+    height: 28px;
+    object-fit: cover;
+}
+.carto {
+    position: absolute;
+    top: 47px;
+    left: 45px;
+}
+.logo-mastercard-icon {
+    position: absolute;
+    top: 43px;
+    left: 4px;
+    width: 36px;
+    height: 28px;
+    object-fit: cover;
+}
+.pix {
+    position: absolute;
+    top: 6px;
+    left: 45px;
+}
+.logo-pix-icon {
+    position: absolute;
+    top: 0px;
+    left: 8.06px;
+    width: 32.2px;
+    height: 33px;
+    object-fit: contain;
+}
+.pagamento {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 125px;
+    height: 109px;
+}
+.retngulo-icon {
+    position: absolute;
+    top: 14px;
+    left: 152px;
+    border-radius: 8px;
+    width: 201px;
+    height: 81px;
+    cursor: pointer;
+}
+.ao-carrinho {
+    margin: 0;
+}
+.adicionar-ao-carrinho-container {
+    position: absolute;
+    top: 17px;
+    left: 171px;
+    font-size: 31px;
+    color: #fff;
+    text-align: center;
+}
+.adicionar {
+    position: absolute;
+    top: 690px;
+    left: 19px;
+    width: 353px;
+    height: 109px;
+}
+.retngulo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #caffb1;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 390px;
+    height: 57px;
+}
+.r150-un {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 73px);
+}
+.valor {
+    position: absolute;
+    top: 603px;
+    left: 0px;
+    width: 390px;
+    height: 57px;
+    font-size: 32px;
+}
+.menos-calorias {
+    margin-bottom: 0px;
+}
+.menos-calorias-sade-gastroint {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 23px;
+}
+.ingredientes {
+    position: absolute;
+    top: calc(50% + 145px);
+    left: 19px;
+    display: inline-block;
+    width: 237px;
+    height: 58px;
+}
+.foto-icon {
+    position: absolute;
+    top: 117px;
+    left: 120px;
+    border-radius: 163.5px;
+    width: 160px;
+    height: 167px;
+    object-fit: cover;
+}
+.linha {
+    position: absolute;
+    top: 301.5px;
+    left: -0.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 391px;
+    height: 1px;
+}
+.linha1 {
+    position: absolute;
+    top: 98.5px;
+    left: -0.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 391px;
+    height: 1px;
+}
+.retngulo1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #caffb1;
+    width: 390px;
+    height: 57px;
+}
+.yakult-40-light {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 89px);
+}
+.ttulo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 57px;
+    text-align: center;
+    font-size: 27px;
+}
+.detalhes-do-produto {
+    position: absolute;
+    top: calc(50% - 270px);
+    left: 0px;
+    width: 390px;
+    height: 406px;
+    font-size: 17px;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.imagem-icon {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 34.2px;
+    height: 33.4px;
+    object-fit: contain;
+}
+.carrinho {
+    position: absolute;
+    top: 0px;
+    left: 288px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.icones {
+    position: absolute;
+    top: 50px;
+    left: 28px;
+    width: 334px;
+    height: 47px;
+}
+.cesf-icon {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 92px;
+    object-fit: cover;
+}
+.yakult {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Salsa;
+}
+

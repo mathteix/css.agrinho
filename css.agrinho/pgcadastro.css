@@ -1,0 +1,223 @@
+.logo-cesf-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 20px);
+    border-radius: 4px;
+    background-color: #000;
+    width: 40px;
+    height: 39px;
+}
+.logo-cesf-item {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    width: 18px;
+    height: 27px;
+}
+.logo-cesf-inner {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    width: 18.2px;
+    height: 18px;
+    object-fit: contain;
+}
+.vector-icon {
+    position: absolute;
+    top: 15.34px;
+    left: 19.57px;
+    width: 18.7px;
+    height: 18.5px;
+    object-fit: contain;
+}
+.cesf {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.logo-cesf {
+    position: absolute;
+    bottom: 19px;
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 39px;
+    text-align: center;
+    font-size: 11.5px;
+    color: #fff;
+    font-family: Inter;
+}
+.cadastrar-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 117.5px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    background-color: #2ca531;
+    width: 235px;
+    height: 45px;
+}
+.concluir-cadastro {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 94.5px);
+}
+.cadastrar {
+    position: absolute;
+    top: 664px;
+    left: calc(50% - 118px);
+    width: 235px;
+    height: 45px;
+    text-align: center;
+    font-size: 19px;
+    color: #fff;
+}
+.retangulo-inserir-senha {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #f2e782;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 339px;
+    height: 41px;
+}
+.crie-uma-senha {
+    position: absolute;
+    top: 12px;
+    left: 13px;
+}
+.senha {
+    position: absolute;
+    top: 585px;
+    left: 27px;
+    width: 339px;
+    height: 41px;
+}
+.perodo1 {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+}
+.perodo {
+    position: absolute;
+    top: 523px;
+    left: 27px;
+    width: 339px;
+    height: 41px;
+}
+.srieturma {
+    position: absolute;
+    top: 12px;
+    left: 17px;
+}
+.srie {
+    position: absolute;
+    top: 462px;
+    left: 27px;
+    width: 339px;
+    height: 41px;
+}
+.cgm1 {
+    position: absolute;
+    top: 11px;
+    left: 17px;
+}
+.cgm {
+    position: absolute;
+    top: 399px;
+    left: 27px;
+    width: 339px;
+    height: 41px;
+}
+.email {
+    position: absolute;
+    top: 335px;
+    left: 27px;
+    width: 339px;
+    height: 41px;
+}
+.nome {
+    position: absolute;
+    top: 277px;
+    left: 26px;
+    width: 339px;
+    height: 41px;
+}
+.retangulo-cadastro {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #caffb1;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 312px;
+    height: 96px;
+}
+.c-a-d {
+    position: absolute;
+    top: 29px;
+    left: 44px;
+    display: inline-block;
+    width: 222px;
+    height: 38px;
+}
+.ttulo {
+    position: absolute;
+    top: 144px;
+    left: 40px;
+    width: 312px;
+    height: 96px;
+    font-size: 32px;
+    color: #096f00;
+}
+.voltar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.seta-icon {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.voltar {
+    position: absolute;
+    top: 50px;
+    left: 27px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.cesf-icon {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 85px);
+    width: 169px;
+    height: 113px;
+    object-fit: cover;
+}
+.pg-cadastro {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #9b9b9b;
+    font-family: Salsa;
+}
+

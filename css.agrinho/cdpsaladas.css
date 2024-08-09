@@ -1,0 +1,243 @@
+.retngulo {
+    position: absolute;
+    top: 171px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #fbd193;
+    border: 1px solid #22731b;
+    box-sizing: border-box;
+    width: 362px;
+    height: 41px;
+    cursor: pointer;
+}
+.salada-italiana-fit {
+    position: absolute;
+    top: 182px;
+    left: 13px;
+    white-space: pre-wrap;
+}
+.retngulo1 {
+    position: absolute;
+    top: 155px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #fbd193;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 362px;
+    height: 41px;
+    cursor: pointer;
+}
+.salada-caesar {
+    position: absolute;
+    top: 125px;
+    left: 13px;
+}
+.retngulo2 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #fbd193;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 362px;
+    height: 41px;
+    cursor: pointer;
+}
+.salada-de-frutas {
+    position: absolute;
+    top: 68px;
+    left: 10px;
+}
+.retngulo3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #fbd193;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 362px;
+    height: 41px;
+    cursor: pointer;
+}
+.salada-de-frutas1 {
+    position: absolute;
+    top: 11px;
+    left: 13px;
+}
+.opes {
+    position: absolute;
+    top: 526px;
+    left: 14px;
+    width: 362px;
+    height: 212px;
+}
+.retngulo4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    background-color: #b7d585;
+    border: 1px solid #096f00;
+    box-sizing: border-box;
+    width: 362px;
+    height: 41px;
+}
+.saladas1 {
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+.div {
+    position: absolute;
+    top: 26.35px;
+    left: 344.08px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 14px;
+    height: 11.3px;
+    transform:  rotate(179.6deg);
+    transform-origin: 0 0;
+}
+.saladas {
+    position: absolute;
+    top: 469px;
+    left: 14px;
+    width: 362px;
+    height: 41px;
+    font-size: 22px;
+}
+.retangulo-cadastro {
+    position: absolute;
+    top: 38px;
+    left: 0px;
+    border-radius: 8px;
+    width: 312px;
+    height: 97px;
+}
+.sanduiche-icon {
+    position: absolute;
+    top: 0px;
+    left: 244px;
+    width: 107px;
+    height: 76px;
+    object-fit: cover;
+}
+.c-a-r {
+    position: absolute;
+    top: 67px;
+    left: 43px;
+}
+.ttulo {
+    position: absolute;
+    top: 99px;
+    left: 39px;
+    width: 351px;
+    height: 135px;
+    font-size: 32px;
+    color: #096f00;
+}
+.menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 46px;
+    height: 47px;
+}
+.risquinhos-icon {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    width: 34px;
+    height: 30px;
+    object-fit: cover;
+}
+.menu {
+    position: absolute;
+    top: 50px;
+    left: 27px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+}
+.cesf-icon {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 85px);
+    width: 169px;
+    height: 113px;
+    object-fit: cover;
+}
+.salgados1 {
+    position: absolute;
+    top: 10px;
+    left: 13px;
+    white-space: pre-wrap;
+}
+.div1 {
+    position: absolute;
+    top: 26.35px;
+    left: 344.08px;
+    font-size: 22px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 14px;
+    height: 11.3px;
+    transform:  rotate(179.6deg);
+    transform-origin: 0 0;
+}
+.salgados {
+    position: absolute;
+    top: 280px;
+    left: 14px;
+    width: 362px;
+    height: 41px;
+}
+.doces1 {
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+.doces {
+    position: absolute;
+    top: 343px;
+    left: 14px;
+    width: 362px;
+    height: 41px;
+}
+.bebidas1 {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+}
+.bebidas {
+    position: absolute;
+    top: 406px;
+    left: 14px;
+    width: 362px;
+    height: 41px;
+}
+.cardpio-saladas {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Salsa;
+}
+
